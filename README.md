@@ -2,7 +2,7 @@
 
 Predict head angles along three axes (yaw, pitch and role), using OpenCV and Mediapipe face mesh.
 
-![image-20220330140226569](/Users/yujianghua/Library/Application Support/typora-user-images/image-20220330140226569.png)
+![image](ttps://github.com/stepstep123/mediapipe_pose_blink_estmate/blob/master/data/48.jpg)
 
 ## Usage
 
@@ -18,7 +18,7 @@ python3 pose.py
 
 # Eye blink Estimation
 
-![image-20220330140800858](/Users/yujianghua/Library/Application Support/typora-user-images/image-20220330140800858.png)
+![image](https://github.com/stepstep123/mediapipe_pose_blink_estmate/blob/master/data/eye12.jpg)
 
 ###### Run the estimator script to predict head poses from webcam video.
 
