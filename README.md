@@ -2,7 +2,7 @@
 
 Predict head angles along three axes (yaw, pitch and role), using OpenCV and Mediapipe face mesh.
 
-![image](ttps://github.com/stepstep123/mediapipe_pose_blink_estmate/blob/master/data/48.jpg)
+![image](https://github.com/stepstep123/mediapipe_pose_blink_estmate/blob/master/data/48.jpg)
 
 ## Usage
 
